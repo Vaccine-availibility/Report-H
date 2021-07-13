@@ -1,0 +1,55 @@
+1)PYTHON :-
+
+Python is an interpreted, high-level, general-purpose programming language. Created by Guido Van
+Rossum and first released in 1991, python's design philosophy emphasizes code readability with its notable
+use of significant whitespace . Python is dynamically typed and garbage-collected. It supports multiple
+programming paradigms, including structured (Particularly, procedural), object-oriented, and functional
+programming. Python is often described as a "batteries included" language due to its comprehensive standard
+library.
+Python was conceived in the late 1980s as a successor to the C language. Python 2.0, released in
+2000, introduced features like list comprehensions and a garbage collection system capable of collecting
+reference cycles. Python 3.0, released in 2008, was a major revision of the language that is not completely
+backward-compatible, and much python 2 code does not run unmodified on python 3. Python is a multiparadigm programming language. Object-oriented programming and structured programming are fully
+supported, and many of its features support functional programming and aspect-oriented programming
+(Including by metaprogramming and metaobjects (Magic methods)). Python uses dynamic typing and a
+combination of reference counting and a cycle-detecting garbage collector for memory management. It also
+features dynamic name resolution (late binding), which binds method and variable names during program
+execution.
+
+2)FLASK :-
+Flask is an API of Python that allows us to build up web-applications.
+ It was developed by Armin Ronacher. 
+Flask's framework is more explicit than Django's framework and is also easier to learn because it has less base code to implement a simple web-Application.
+Flask gives the developer varieties of choice when developing web applications, it provides you with tools, libraries, and mechanics that allow you to build a web application but it will not enforce any dependencies or tell you how the project should look like
+
+3)API :-
+API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API.
+Need of API--
+“There is a need to have a powerfully designed API to allow for protection of sensitive information.” Brail said security provisions or limits can be built into an API to control data access. ... “You can also have an audit trail in the API that would make it possible to see who accessed the data and when.”
+
+>>Api Setu:-
+API Setu provides access to information from multiple sources through a single platform. You can use APIs for a variety of use cases such KYC, university admissions and employment.
+
+Co-WIN Public APIs allow any third-party application to access certain un-restricted information, that can be shared with its users. This is limited only to read access in Co-WIN. ... Further, these APIs are subject to a rate limit of 100 API calls per 5 minutes per IP.
+
+4)DATA BASE:-
+A database is an organized collection of structured information, or data, typically stored electronically in a computer system. ... The data can then be easily accessed, managed, modified, updated, controlled, and organized. Most databases use structured query language (SQL) for writing and querying data
+
+In your project we have used SQ Lite as your data base
+
+>>SQ LITE :-
+SQLite is an in-process library that implements a self-contained, serverless, zeroconfiguration, transactional SQL database engine. The code for SQLite is in the public domain and is thus free
+for use for any purpose, commercial or private. SQLite is the most widely deployed database in the world with
+more applications than we can count, including several high-profile projects.
+SQLite is an embedded SQL database engine. Unlike most other SQL databases, SQLite does not
+have a separate server process. SQLite reads and writes directly to ordinary disk files. A complete SQL
+database with multiple tables, indices, triggers, and views, is contained in a single disk file. The database file
+format is cross-platform - you can freely copy a database between 32-bit and 64-bit systems or between bigendian and little-endian architectures. These features make SQLite a popular choice as an Application File
+Format. SQLite database files are a recommended storage format by the US Library of Congress. Think of
+SQLite not as a replacement for Oracle but as a replacement for fopen()
+SQLite is a compact library. With all features enabled, the library size can be less than 600KB, depending
+on the target platform and compiler optimization settings. (64-bit code is larger. And some compiler
+optimizations such as aggressive function inlining and loop unrolling can cause the object code to be much
+larger.) There is a trade-off between memory usage and speed. SQLite generally runs faster the more memory
+you give it. Nevertheless, performance is usually quite good even in low-memory environments. Depending
+on how it is used
